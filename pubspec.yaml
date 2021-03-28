@@ -12,11 +12,12 @@ dependencies:
   flutter:
     sdk: flutter
   test_api: ^0.2.0
-  flutter_test: 
+  flutter_test:
     sdk: flutter
+  logging:
 
 dev_dependencies:
-  lint: 
+  lint:
 
 flutter:
   plugin:
@@ -28,3 +29,4 @@ flutter:
         pluginClass: HottiePlugin
       macos:
         pluginClass: HottiePlugin
+
